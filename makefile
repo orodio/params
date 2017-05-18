@@ -15,4 +15,4 @@ test: ## runs the tests
 	yarn test
 
 test-watch: ## watch /src then runs the tests
-	yarn test
+	yarn test -- --watch

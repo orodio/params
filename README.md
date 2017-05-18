@@ -18,3 +18,11 @@ parse("?bar=true&foo=1&omg=1|true|baz")
 // { foo:1, bar:true, omg:[1,true,"baz"]}
 
 ```
+
+### Dev
+
+```
+$ make build
+$ make build-watch
+$ make test
+```
