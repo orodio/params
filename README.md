@@ -1,5 +1,7 @@
 # `@orodio/params`
 
+[![Build Status](https://travis-ci.org/orodio/params.svg?branch=master)](https://travis-ci.org/orodio/params)
+
 ### Install
 
 ```
